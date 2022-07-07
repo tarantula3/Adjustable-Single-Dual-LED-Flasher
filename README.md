@@ -130,9 +130,11 @@ To conclude I have soldered 3 x Male pin headers to the board.
 
 
 
-#Thanks
+# Thanks
 [![B1URFJywtcI](https://img.youtube.com/vi/B1URFJywtcI/0.jpg)](https://www.youtube.com/watch?v=B1URFJywtcI)
+
 Thanks again for checking my post. I hope it helps you.
+
 If you want to support me subscribe to my YouTube Channel: https://www.youtube.com/user/tarantula3
 
 Full Blog Post: https://diy-projects4u.blogspot.com/2022/07/555-Dual.html
